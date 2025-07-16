@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|c:\\users\\miguel\\source\\repos\\myofficeequipmentinventory\\myofficeequipmentinventory\\repositories\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|solutionrelative:myofficeequipmentinventory\\repositories\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|c:\\users\\miguel\\source\\repos\\myofficeequipmentinventory\\myofficeequipmentinventory\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|solutionrelative:myofficeequipmentinventory\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|c:\\users\\miguel\\source\\repos\\myofficeequipmentinventory\\myofficeequipmentinventory\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|solutionrelative:myofficeequipmentinventory\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|c:\\users\\miguel\\source\\repos\\myofficeequipmentinventory\\myofficeequipmentinventory\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|solutionrelative:myofficeequipmentinventory\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|c:\\users\\miguel\\source\\repos\\myofficeequipmentinventory\\myofficeequipmentinventory\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|solutionrelative:myofficeequipmentinventory\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|c:\\users\\miguel\\source\\repos\\myofficeequipmentinventory\\myofficeequipmentinventory\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A2B80-2663-4312-84EB-1DCDCA7E0804}|MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory.csproj|solutionrelative:myofficeequipmentinventory\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 624,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "MyOfficeEquipmentInventory\\Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\Models\\Equipment.cs",
+              "RelativeToolTip": "MyOfficeEquipmentInventory\\Models\\Equipment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwvRAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:49:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MyOfficeEquipmentInventory\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "MyOfficeEquipmentInventory\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-16T04:43:45.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MyOfficeEquipmentInventory\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MyOfficeEquipmentInventory\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:43:41.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\Repositories\\EquipmentRepository.cs",
+              "RelativeDocumentMoniker": "MyOfficeEquipmentInventory\\Repositories\\EquipmentRepository.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\Repositories\\EquipmentRepository.cs",
+              "RelativeToolTip": "MyOfficeEquipmentInventory\\Repositories\\EquipmentRepository.cs",
+              "ViewState": "AgIAADEAAABAAAAAAAA0wEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:25:53.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MyOfficeEquipmentInventory\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "MyOfficeEquipmentInventory\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADYAAABAmZmZmZkVwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:25:47.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "MyOfficeEquipmentInventory\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\MyOfficeEquipmentInventory\\MyOfficeEquipmentInventory\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "MyOfficeEquipmentInventory\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:25:24.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

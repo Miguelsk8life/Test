@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "HP LaserJet Pro",
+    "Type": 0,
+    "Status": 0
+  },
+  {
+    "Id": 2,
+    "Name": "Epson V600",
+    "Type": 1,
+    "Status": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Dell UltraSharp 27\"",
+    "Type": 2,
+    "Status": 2
+  },
+  {
+    "Id": 4,
+    "Name": "New Equipment 075039",
+    "Type": 2,
+    "Status": 0
+  }
+]
